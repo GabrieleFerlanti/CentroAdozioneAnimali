@@ -2,7 +2,7 @@
 CALL RegistraAnimale ('RSSMRA97M15A001G', '1A2B3C4D5E6F7G8', 'Luna', 1, 'cane', 'medio', 'grande', 'Golden Retriever', '2024-03-01'); #Chiamata [CALL] alla procedura RegistraAnimale ('ValoriDaPassare',)
 
 #Registrare un animale con una persona non registrata
-CALL RegistraAnimale ('BRSRPA88R25E005W', 'QW3E4R5T6Y7U8I9', 'Max', 3, 'cane', 'medio', 'grande', 'Pastore Tedesco', '2024-03-01');
+#CALL RegistraAnimale ('BRSRPA88R25E005W', 'QW3E4R5T6Y7U8I9', 'Max', 3, 'cane', 'medio', 'grande', 'Pastore Tedesco', '2024-03-01');
 CALL RegistraPersona ('BRSRPA88R25E005W', 'Giovanni', 'Ferrari', 'Via Dante Alighieri 30', '7775551234', 'giovanni.ferrari@example.com');
 CALL RegistraAnimale ('BRSRPA88R25E005W', 'QW3E4R5T6Y7U8I9', 'Max', 3, 'cane', 'medio', 'grande', 'Pastore Tedesco', '2024-03-01');
 
